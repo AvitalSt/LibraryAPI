@@ -5,16 +5,12 @@ obj/
 # User-specific files
 .vs/
 .vscode/
-.idea/
 
 # Windows Installer files
 *.cab
 *.msi
 *.msm
 *.msp
-
-# Windows Installer logs
-*.log
 
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
@@ -24,23 +20,6 @@ ScaffoldingReadMe.txt
 *.userosscache
 *.suo
 *.userprefs
-
-# .NET Core specific
-project.lock.json
-project.fragment.lock.json
-artifacts/
-
-# VS for Mac
-.vscode/
-
-# JetBrains Rider
-.idea/
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
 
 # Ignore appsettings.json to avoid sensitive information exposure
 appsettings.json
